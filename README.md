@@ -16,41 +16,39 @@ Data Clinic est un outil qui aide les professionnels de la santé à gérer ense
 - Utilisation des normes
 - Adaptable et paramétrable
 - Sauvegarde local et cloud
+- ...
 
 Data Clinic est accessible, puissant et fournit les outils nécessaires gérer les dossiers patients.
 
 ## Apprendre Data Clinic
 
-Data Clinic possède une [documentation](https://laravel.com/docs) complète et approfondie ainsi que la bibliothèque de tutoriels vidéo, ce qui rend le démarrage avec Data Clinic très facile.
+Data Clinic possède une [documentation](https://data-clinic.org/documentation) complète et approfondie ainsi que la bibliothèque de tutoriels vidéo, ce qui rend le démarrage avec Data Clinic très facile.
 
-Si vous n’avez pas envie de lire, [notre chaîne YouTube](https://laracasts.com) can help. Cette chaîne propose des tutoriels vidéo sur divers sujets.
+Si vous n’avez pas envie de lire, [notre chaîne YouTube](https://www.youtube.com/@data-clinic-rdc) peut vous aider. Cette chaîne propose des tutoriels vidéo sur divers sujets.
 
 ## Nos partenaires
 
-Ils nous soutiennent dans la conception et la mise en oeuvre de Data Clinic [page Partenaires](https://data-clinic.org/sponsors).
+Ils nous soutiennent dans la conception et la mise en oeuvre de Data Clinic :
 
-- **[Ministère de la Santé Publique, et Prévoyance Social](https://vehikl.com/)**
-- **[PARS SSR](https://vehikl.com/)**
-- **[PRODS](https://vehikl.com/)**
-- **[PROSA](https://vehikl.com/)**
-- **[Malteser International](https://vehikl.com/)**
-- **[EUP FASS PO](https://vehikl.com/)**
-- **[ANICNS](https://vehikl.com/)**
-- **[Save The Childre](https://vehikl.com/)**
+- **[Ministère de la Santé Publique, et Prévoyance Social](https://sante.gouv.cd)**
+- **[PARS SSR](https://sante.gouv.cd)**
+- **[PRODS](https://prods-rdc.com)**
+- **[PROSA](https://prods-rdc.com)**
+- **[Malteser International](https://www.malteser-international.org/fr/sur-le-terrain/afrique/rd-congo.html)**
+- **[EUP FASS PO](https://eupfasspo.org/)**
+- **[ANICNS](https://anicns.gouv.cd)**
+- **[Save The Children](https://savethechildren.net)**
 
-## Contribution
-
-Merci de considérer contribuer au développement et au déploiement de Data Clinic !
-Le guide de contribution se trouve dans la page [Partenaire](https://data-clinic.org/sponsors).
+Visitez la page [Partenaires](https://data-clinic.org/sponsors) pour en savoir plus.
 
 ## Code de conduite
 
-Afin de garantir que la communauté Laravel soit accueillante pour tous, veuillez lire et respecter les [Conditions d'utilisation](https://data-clinic.org/conditions).
+Afin de garantir que la communauté Data Clinic soit accueillante pour tous, veuillez lire et respecter les [Conditions d'utilisation](https://data-clinic.org/conditions).
 
 ## Vulnérabilités de sécurité
 
-Si vous découvrez une vulnérabilité de sécurité dans Data Clinic, veuillez envoyer un e-mail à Taylor Otwell à l’adresse [taylor@laravel.com](mailto:info@data-clinic.org). Toutes les vulnérabilités de sécurité seront traitées rapidement.
+Si vous découvrez une vulnérabilité de sécurité dans Data Clinic, veuillez envoyer un e-mail à l’adresse [info@data-clinic.org](mailto:info@data-clinic.org). Toutes les vulnérabilités de sécurité seront traitées rapidement.
 
 ## Licence
-Ce projet est sous **licence propriétaire**.  
-L’utilisation du logiciel Data Clinic est autorisée uniquement après achat d’une licence commerciale.
+
+Ce projet est sous **licence propriétaire**. L’utilisation du logiciel Data Clinic est autorisée uniquement après achat d’une licence commerciale.
