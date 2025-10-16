@@ -18,7 +18,7 @@ Data Clinic est un outil qui aide les professionnels de la santé à gérer ense
 - Sauvegarde local et cloud
 - ...
 
-Data Clinic est accessible, puissant et fournit les outils nécessaires gérer les dossiers patients.
+Data Clinic est accessible, performant et fournit tous les outils nécessaires à la gestion des dossiers patients.
 
 ## Apprendre Data Clinic
 
