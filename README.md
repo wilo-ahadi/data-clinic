@@ -22,7 +22,14 @@ Data Clinic est accessible, puissant et fournit les outils nécessaires gérer l
 
 ## Apprendre Data Clinic
 
-Data Clinic possède une [documentation](https://data-clinic.org/documentation) complète et approfondie ainsi que la bibliothèque de tutoriels vidéo, ce qui rend le démarrage avec Data Clinic très facile.
+Data Clinic dispose d’une [documentation](https://data-clinic.org/documentation) complète et détaillée, accompagnée d’une riche bibliothèque de tutoriels vidéo, ce qui facilite grandement la prise en main de la plateforme.
+
+Cette documentation est structurée en quatre sections :
+
+- [Data Clinic pour le personnel soignant](https://data-clinic.org/documentation/utilisation) : Apprendre à utiliser Data Clinic pour gérer les dossiers médicaux et coordonner les soins des patients avec les médecins, les infirmiers, etc.
+- [Data Clinic pour les administrateurs](https://data-clinic.org/documentation/administration) : Apprendre à configurer Data Clinic, à gérer les utilisateurs, à surveiller l'activité du système et à réaliser les sauvegardes
+- [Installer et mettre à jour Data Clinic](https://data-clinic.org/documentation/installation) : Apprendre à déployer Data Clinic dans un établissement de soins de santé (hôpital ou centre de santé) et à installer les dernières versions.
+- [Data Clinic Cloud](https://data-clinic.org/documentation/cloud) : Découvrez l'interopérabilité entre les établissements des soins de santé et diverses plateformes
 
 Si vous n’avez pas envie de lire, [notre chaîne YouTube](https://www.youtube.com/@data-clinic-rdc) peut vous aider. Cette chaîne propose des tutoriels vidéo sur divers sujets.
 
@@ -30,14 +37,13 @@ Si vous n’avez pas envie de lire, [notre chaîne YouTube](https://www.youtube.
 
 Ils nous soutiennent dans la conception et la mise en oeuvre de Data Clinic :
 
-- **[Ministère de la Santé Publique, et Prévoyance Social](https://sante.gouv.cd)**
-- **[PARS SSR](https://sante.gouv.cd)**
-- **[PRODS](https://prods-rdc.com)**
-- **[PROSA](https://prods-rdc.com)**
-- **[Malteser International](https://www.malteser-international.org/fr/sur-le-terrain/afrique/rd-congo.html)**
-- **[EUP FASS PO](https://eupfasspo.org/)**
-- **[ANICNS](https://anicns.gouv.cd)**
-- **[Save The Children](https://savethechildren.net)**
+- [Ministère de la Santé Publique, Hygiène et Prévoyance Social](https://sante.gouv.cd)
+- [PARSS SSR](https://sante.gouv.cd)
+- [PRODS/PROSA](https://prods-rdc.com)
+- [Malteser International](https://www.malteser-international.org/fr/sur-le-terrain/afrique/rd-congo.html)
+- [EUP FASS PO](https://eupfasspo.org/)
+- [ANICNS](https://anicns.gouv.cd)
+- [Save The Children](https://savethechildren.net)
 
 Visitez la page [Partenaires](https://data-clinic.org/sponsors) pour en savoir plus.
 
