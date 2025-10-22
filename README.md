@@ -35,19 +35,19 @@ Si vous n’avez pas envie de lire, [notre chaîne YouTube](https://www.youtube.
 
 ## 📸 Screenshots
 
-Découvrez quelques captures d’écran de l’interface utilisateur Data Clinic, dédiée à la gestion des dossiers médicaux.
+Visualisez quelques captures d’écran de l’interface utilisateur Data Clinic.
 
-- Accès rapides : affiche des raccourcis vers les principales actions et informations que l’administrateur peut gérer.
+- Accès rapides : affiche des raccourcis vers les principales actions et informations que l'utilisateur peut gérer.
 
-(image ici)
+![Page Accès rapides](http://data-clinic.org/images/app/screenshots/home.jpg)
 
 - Patients : affiche la liste de tous les patients (nom, sexe, âge, dernier service, etc.).
 
-(image ici)
+![Page Patients](http://data-clinic.org/images/app/screenshots/patients.jpg)
 
 - Dossier médical : présente l’ensemble de la prise en charge du patient (signes vitaux, diagnostics, examens de laboratoire et d’imagerie, traitements, etc.).
 
-(image ici)
+![Page Dossier médical](http://data-clinic.org/images/app/screenshots/patient.jpg)
 
 ## Nos partenaires
 
