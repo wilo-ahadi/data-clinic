@@ -33,6 +33,8 @@ Cette documentation est structurée en quatre sections :
 
 Si vous n’avez pas envie de lire, [notre chaîne YouTube](https://www.youtube.com/@data-clinic-rdc) peut vous aider. Cette chaîne propose des tutoriels vidéo sur divers sujets.
 
+Si vous souhaitez suivre une formation en présentiel, restez informé en consultant nos pages [LinkedIn](https://www.linkedin.com/company/data-clinic-rdc) et [Facebook](https://web.facebook.com/people/Data-Clinic/61580857860463/), ou en vous abonnant à notre newsletter.
+
 ## 📸 Screenshots
 
 Visualisez quelques captures d’écran de l’interface utilisateur Data Clinic.
